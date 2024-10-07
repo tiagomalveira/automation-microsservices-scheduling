@@ -1,0 +1,16 @@
+{
+  "name": "automation-scheduling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tiago Malveira",
+  "license": "MIT",
+  "dependencies": {
+    "@hokify/agenda": "^6.3.0",
+    "automation-scheduling": "file:"
+  }
+}
